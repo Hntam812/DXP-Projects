@@ -1,0 +1,7 @@
+python3-pip
+azure-storage-blob
+requests
+python-decouple
+subprocess
+
+

@@ -1,0 +1,6 @@
+def jenkinsFile
+stage('Loading Jenkins file') {
+  jenkinsFile = fileLoader.fromGit("Jenkinsfile/${params.jenkinspath}.groovy",
+				"${params.git_environment}", 'main', 'github', '')
+
+}

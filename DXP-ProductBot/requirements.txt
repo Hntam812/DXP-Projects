@@ -1,0 +1,7 @@
+requests
+pymsteams
+pandas
+python-decouple
+azure-storage-blob
+fastapi
+uvicorn
